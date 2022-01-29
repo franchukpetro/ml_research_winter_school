@@ -20,5 +20,5 @@ RAFT maintains and updates a single fixed flow field at high resolution. This is
 
 | Attack                      | MSE           |
 | ----------------------------|:-------------:| 
-| Noise patch                 | 100           | 
-| Overall Gaussian noise      | 100           |
+| Noise patch                 | 5.88          | 
+| Overall Gaussian noise      | 486.60        |
