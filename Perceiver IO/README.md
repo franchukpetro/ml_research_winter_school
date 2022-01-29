@@ -29,6 +29,6 @@ As you can see, there is a slight boost in performance on the Sintel dataset com
 
 | Attack                      | MSE           |
 | ----------------------------|:-------------:| 
-| Noise patch                 | 100           | 
-| Overall Gaussian noise      | 100           |
+| Noise patch                 | 46.65         | 
+| Overall Gaussian noise      | 6086.99       |
 
