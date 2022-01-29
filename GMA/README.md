@@ -29,5 +29,5 @@ The proposed method showed SOTA performance compared to previous top-performance
 
 | Attack                      | MSE           |
 | ----------------------------|:-------------:| 
-| Noise patch                 | 100           | 
-| Overall Gaussian noise      | 100           |
+| Noise patch                 | 3.14          | 
+| Overall Gaussian noise      | 612.88        |
